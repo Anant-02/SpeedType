@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.main {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.timer {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.words {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.words span {
+    transition: color 0.2s;
+}
+
+.greyed-out {
+    color: gray;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+.input-box {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.result {
+    font-size: 22px;
+    margin-top: 20px;
+}
