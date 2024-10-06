@@ -8,4 +8,4 @@
    - **Red** for incorrect typing.
 4. After 30 seconds, your typing speed is calculated in WPM and displayed on the screen.
 
-![Image](Images\Screenshot 2024-10-06 222738.png)
+![Image](Images/Screenshot 2024-10-06 222738.png)
